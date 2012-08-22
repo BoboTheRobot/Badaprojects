@@ -1,0 +1,1 @@
+Samsung bada projects and applications
