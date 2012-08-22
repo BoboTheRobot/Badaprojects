@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Application>
+    <Entry>VLC_remote</Entry>
+    <Name>
+        <English>VLC_remote</English>
+        <eng-GB>VLC_remote</eng-GB>
+    </Name>
+    <Vendor>Bostjan Mrak</Vendor>
+    <Description/>
+    <Icons>
+        <MainMenu>iconnew.png<Type1>iconnew.png</Type1>
+            <Type2/>
+        </MainMenu>
+        <Setting/>
+        <Ticker/>
+        <QuickPanel/>
+        <LaunchImage>fpnew.png<Type1>fpnew.png</Type1>
+            <Type2/>
+        </LaunchImage>
+    </Icons>
+    <AutoScaling>
+        <Enabled>false</Enabled>
+    </AutoScaling>
+</Application>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Application>
+    <Entry>PD_monitor</Entry>
+    <Name>
+        <English>PD_monitor</English>
+        <eng-GB>PD_monitor</eng-GB>
+    </Name>
+    <Vendor>Bostjan Mrak</Vendor>
+    <Description>Control your packet data download rate</Description>
+    <Icons>
+        <MainMenu>icon.png<Type1>icon.png</Type1>
+            <Type2/>
+        </MainMenu>
+        <Setting/>
+        <Ticker>ticker.png<Type1>ticker.png</Type1>
+            <Type2/>
+        </Ticker>
+        <QuickPanel>badge.png<Type1>badge.png</Type1>
+            <Type2/>
+        </QuickPanel>
+        <LaunchImage>fs.png<Type1>fs.png</Type1>
+            <Type2/>
+        </LaunchImage>
+    </Icons>
+    <AutoScaling>
+        <Enabled>false</Enabled>
+    </AutoScaling>
+</Application>

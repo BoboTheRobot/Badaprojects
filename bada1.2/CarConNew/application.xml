@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Application>
+    <Entry>CarCon</Entry>
+    <Name>
+        <English>CarCon</English>
+        <eng-GB>CarCon</eng-GB>
+    </Name>
+    <Vendor>Mrak Bostjan</Vendor>
+    <Description>Car consumption and managing tool</Description>
+    <Icons>
+        <MainMenu>icon.png</MainMenu>
+        <Setting/>
+        <Ticker/>
+        <QuickPanel/>
+        <LaunchImage>carfp.png</LaunchImage>
+    </Icons>
+    <AutoScaling>
+        <Enabled>false</Enabled>
+    </AutoScaling>
+</Application>
